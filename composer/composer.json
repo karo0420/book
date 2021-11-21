@@ -1,0 +1,15 @@
+{
+    "name": "hamed/composer",
+    "autoload": {
+        "psr-4": {
+            "Hamed\\Composer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamed Soleimanian",
+            "email": "soleimanian.h2o@gmail.com"
+        }
+    ],
+    "require": {}
+}
