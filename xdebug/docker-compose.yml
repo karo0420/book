@@ -1,9 +1,9 @@
-version: '3'
+version: '2'
 services:
   apache_with_php:
     build: .
     volumes:
-      -./src:/var/www/html
+      - ./src:/var/www/html
     ports:
-      -80:80
+      - "80:80"
     
