@@ -4,6 +4,7 @@ services:
     build: .
     image: xd
     container_name: web
+    volumes:
+      - ./:/var/www/html
     ports:
       - "80:80"
-    
