@@ -1,0 +1,166 @@
+version: 1
+creator: xdebug 3.1.1 (PHP 8.0.13)
+cmd: /var/www/html/src/fact.php
+part: 1
+positions: line
+
+events: Time_(10ns) Memory_(bytes)
+
+fl=(2) /var/www/html/src/fact.php
+fn=(1) factorial
+8 112 0
+
+fl=(2)
+fn=(2) myfact
+3 2456 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 112 0
+
+fl=(2)
+fn=(1)
+8 1017 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 2569 0
+
+fl=(2)
+fn=(2)
+3 279 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 3586 0
+
+fl=(2)
+fn=(1)
+8 184 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 3865 0
+
+fl=(2)
+fn=(2)
+3 159 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 4049 0
+
+fl=(2)
+fn=(1)
+8 166 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 4208 0
+
+fl=(2)
+fn=(2)
+3 141 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 4374 0
+
+fl=(2)
+fn=(1)
+8 2006 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 4515 0
+
+fl=(2)
+fn=(2)
+3 163 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 6521 0
+
+fl=(2)
+fn=(1)
+8 150 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 6684 0
+
+fl=(2)
+fn=(2)
+3 140 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 6834 0
+
+fl=(2)
+fn=(1)
+8 157 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 6974 0
+
+fl=(2)
+fn=(2)
+3 140 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 7131 0
+
+fl=(2)
+fn=(1)
+8 165 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 7271 0
+
+fl=(2)
+fn=(2)
+3 145 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 7436 0
+
+fl=(2)
+fn=(1)
+8 197 0
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 7581 0
+
+fl=(2)
+fn=(2)
+3 282 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+5 7778 0
+
+fl=(2)
+fn=(1)
+8 5238 112
+cfl=(2)
+cfn=(2)
+calls=1 0 0
+13 8059 0
+
+fl=(2)
+fn=(3) {main}
+1 2363 0
+cfl=(2)
+cfn=(1)
+calls=1 0 0
+18 13297 112
+
+summary: 30413 434168
+
